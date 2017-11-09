@@ -9,11 +9,16 @@ We implement a <b>3 layers deep neural network</b> using TensorFlow. Notice imag
 ### hand_dnn_model.py
 <ul>
 <li>Train the model</li>
-<li>Record parameters using pickle</li>
+<li>Record parameters in a pickle file</li>
 </ul>
 
 ### hand_dnn_reco.py
 <ul>
 <li>Load trained model parameters from pickle file </li>
 <li>Run chosen image into the network providing prediction </li>
+</ul>
+
+### tf_utils.py
+<ul>
+<li>Contain supporting fuctions for hand_dnn_model.py and hand_dnn_reco.py</li>
 </ul>
