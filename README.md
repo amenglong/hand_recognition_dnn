@@ -1,5 +1,9 @@
 # image_recognition
-Hand-signs image recognition 
+Hand-signs image recognition that recognize numbers from 0 to 5 in sign language.
+<ul>
+<li>Training set: 1080 pictures (64 by 64 pixels) of signs representing numbers from 0 to 5 (180 pictures per number).</li>
+<li>Test set: 120 pictures (64 by 64 pixels) of signs representing numbers from 0 to 5 (20 pictures per number).</li>
+</ul>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/24521991/32612515-6c0dee0e-c5a3-11e7-82e7-1d872ffd022e.png" width="500"></p>
 
